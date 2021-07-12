@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">caculator</string>
+    <string name="display">0</string>
+    <string name="divine"></string>
+</resources>
